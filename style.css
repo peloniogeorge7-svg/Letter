@@ -1,0 +1,45 @@
+body{
+  
+  background-color: blanchedalmond;
+  height: 400px;
+  align-content: center;
+}
+
+.Container{
+  background-color: lightpink;
+  background-image: url(Bg.jpeg);
+  background-size: cover;
+  border-radius: 20%;
+  border:  solid 5px;
+  border-color: beige;
+  margin: 90px 15px 20px 15px;
+  padding: 10px;
+  font-size: 30px;
+  
+}
+
+img{
+  justify-content: center;
+  border-radius: 85px;
+  height: 200px;
+  width: 200px;
+  margin: 13px 30px 100px 47px;
+}
+
+.Hearts{
+  height: 100px;
+  width:  90px;
+  border-radius: 80%;
+  margin: 3px 0px 30px 200px;
+  
+}
+
+
+#Yams{
+  
+  background-color: lightskyblue;
+  padding: 20px;
+  text-align: center;
+  margin: 20px 0px 0px 20px;
+  border-radius: 3000px;
+}
